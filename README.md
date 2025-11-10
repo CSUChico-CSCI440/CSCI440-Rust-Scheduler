@@ -240,7 +240,7 @@ You will be tested against the reference outputs. You will get full credit if yo
 So if you get all of them working, you'll get 100%.
 
 ## Hand In Instructions
-You need to upload your *simple.rs*, *simplerr.rs*, *mlrr.rs*, *simplemlf.rs*, and *mlf.rs* files to the [INGInious submission pages](https://inginious.csuchico.edu/) to mark your completion time. Just a reminder, if you didn't implement one of the schedulers, please make sure the initial code for that scheduler is left in that file, or you will likely cause the autograder to fail to grade your assignment, which is a 0.
+You need to upload your *simple.rs*, *simplerr.rs*, *mlrr.rs*, *simplemlf.rs*, and *mlf.rs* files to the [INGInious submission](https://inginious.csuchico.edu/) to mark your completion time and have it test your submission. Just a reminder, if you didn't implement one of the schedulers, please make sure the initial code for that scheduler is left in that file, or you will likely cause the autograder to fail to grade your assignment, which is a 0.
 
 ## References
 1. Wikipedia. “Scheduling (computing)”. Wikipedia, The Free Encyclopedia. 2012. http://en.wikipedia.org/wiki/Process_scheduler. Online; accessed 16-February-2014.
