@@ -95,7 +95,7 @@ Figure 3: Multi-Level Feedback Priority Scheduler
 You are not allowed to import any additional libraries, except those in the *std* library.
 
 ## Data Queue in Rust
-As an example, here is a simple implementation of a linked list-based Queue in Rust using structs and the Box class:
+If you would like to refresh yourself on building basic data structures like a linked list and queue, here is a simple implementation of a linked list-based Queue in Rust using structs and the Box class:
 
 ```Rust
 pub struct List<T> {
@@ -198,6 +198,8 @@ mod test {
     }
 }
 ```
+Since it is challenging to do **safe** data structures, you can alternatively use the [VecDequeue](https://doc.rust-lang.org/std/collections/struct.VecDeque.html
+) library in *std* Rust. 
 
 ## Checking Your Work
 I have provided some tools to help you check your work.
